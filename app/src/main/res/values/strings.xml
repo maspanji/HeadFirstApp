@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Buku HFAD</string>
+    <string-array name="pilihan">
+        <item>Bab 8</item>
+        <item>Bab 9</item>
+    </string-array>
+</resources>
